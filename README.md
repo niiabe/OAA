@@ -1,2 +1,2 @@
 # OAA
-Landing Page for Achimota App my version
+Landing page for Achimota Century Donation App
